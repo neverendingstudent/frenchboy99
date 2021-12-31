@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frenchboy99
 - 👀 I’m interested in ...Python, SQL, NEO4J, MongoDB, MySQL
-- 🌱 I’m currently learning ...Database Analysis
+- 🌱 I’m currently learning ...large datasets analysis, OLTP, OLAP, cybersecurity for now
 - 💞️ I’m looking to collaborate on ...Python projects
 - 📫 How to reach me ...jose.macedo@my.istec.pt
 
